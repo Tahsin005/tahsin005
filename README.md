@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tahsin.ferdous3546@gmail.com**
 
-- ⚡ Fun fact **I am a unconventional speed cuber.**
+- ⚡ Fun fact **I am an unconventional speed cuber.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
