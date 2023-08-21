@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Tahsin Ferdous</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.850477fed08bfe98598082bcd309ce70%3frik%3d9l9aIUrNeKA%252fPw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+gif&simid=607996541658289640&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
 - 🌱 I’m currently learning **CS Fundamentals With Phitron : Spring 2023**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0](https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0)
