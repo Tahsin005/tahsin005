@@ -8,6 +8,12 @@
 
 - ⚡ Fun fact **I am a competitive programmer and speed cuber.**
 <br/>
+<b>&#128200; Competitive Programming</b>
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
 <h3>Around the web</h3>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
