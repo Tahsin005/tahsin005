@@ -10,9 +10,9 @@
 <br/>
 <b>&#128200; Competitive Programming</b>
 <br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/tahsin005/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
+<a href="https://codeforces.com/profile/tahsin_ferdous">
+   <img src="https://raw.githubusercontent.com/tahsin005/ct-stats/main/output/max_rating.svg" />
+</a>
 <br/>
 <h3>Around the web</h3>
 
