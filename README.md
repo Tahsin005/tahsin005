@@ -8,25 +8,26 @@
 - 📫 How to reach me **tahsin.ferdous3546@gmail.com**
 
 - ⚡ Fun fact **I am a competitive programmer and speed cuber.**
-**Frontend**
+<h3>Frontend</h3>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap" height="45"/>
 </a>
 
-**Backend**
+<h3>Backend</h3>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </a>
 
-**Languages**
+<h3>Languages</h3>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="45"/>
 </a>
 
-**Tools**
+
+<h3>Tools</h3>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github" height="45"/>
