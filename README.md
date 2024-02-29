@@ -1,7 +1,6 @@
 <h1 align="center">Assalamu Alaikum, I am MD. Tahsin Ferdous</h1>
 <h3 align="center">A competitive programmer and backend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin005" alt="tahsin005" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0](https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0)
 
