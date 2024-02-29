@@ -8,6 +8,16 @@
 - 📫 How to reach me **tahsin.ferdous3546@gmail.com**
 
 - ⚡ Fun fact **I am a competitive programmer and speed cuber.**
+<br/>
+<h3>Around the web</h3>
+
+<a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
+<a href="https://www.linkedin.com/in/md-tahsin-ferdous-96684b267/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
+<a href="https://discord.com/users/716171324023767120"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
+<a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
+<a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef badge"/></a>
+<a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-343A40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
+<br />
 <h3>Frontend</h3>
 
 <a href="https://skillicons.dev">
@@ -37,14 +47,7 @@
 
 
 
-<h3>Around the web</h3>
 
-<a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
-<a href="https://www.linkedin.com/in/md-tahsin-ferdous-96684b267/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
-<a href="https://discord.com/users/716171324023767120"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
-<a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
-<a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef badge"/></a>
-<a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-343A40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 
 <br />
 
@@ -57,7 +60,7 @@
 <img width="100%"  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahsin005&theme=github_dark" alt="md-tahsin-ferdous" />
 
 </div>
-
+<br />
 
 </div>
 <h3>Github Streak</h3>
