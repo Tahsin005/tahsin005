@@ -13,6 +13,13 @@
 <a href="https://codeforces.com/profile/tahsin_ferdous">
    <img src="https://img.shields.io/badge/Codeforces-tahsin_ferdous-brightgreen?style=flat-square" />
 </a>
+
+<br />
+<p float="left">
+    <img height="230px" src="https://img.shields.io/badge/Codeforces-tahsin_ferdous-brightgreen?style=flat-square" alt="Statistics"/>
+</p>
+<br/>
+<br/>
 <br/>
 <h3>Around the web</h3>
 
