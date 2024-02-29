@@ -11,7 +11,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <a href="https://codeforces.com/profile/tahsin_ferdous">
-   <img src="https://img.shields.io/badge/Codeforces-%7Btahsin_ferdous%7D-brightgreen?style=flat-square" />
+   <img src="https://img.shields.io/badge/Codeforces-tahsin_ferdous-brightgreen?style=flat-square" />
 </a>
 <br/>
 <h3>Around the web</h3>
