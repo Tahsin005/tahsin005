@@ -46,7 +46,21 @@
 <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/Codechef-343A40?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef badge"/></a>
 <a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-343A40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 
-**Github Streak**
+<br />
+
+<h3 align="left">GitHub Status:</h3>
+
+<div  align="center" width="100vw">
+  
+<div>
+
+<img width="100%"  align="left" src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezuan-alam-rean&theme=react](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahsin005&theme=github_dark)" alt="MD. Tahsin Ferdous" />
+
+</div>
+
+
+</div>
+<h3>Github Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin005&" alt="tahsin005" /></p>
 
 <picture>
