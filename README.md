@@ -14,6 +14,11 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap" height="45"/>
 </a>
+**Backend**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</a>
 
 **Languages**
 
