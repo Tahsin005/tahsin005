@@ -14,6 +14,12 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap" height="45"/>
 </a>
+
+**Languages**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c" height="45"/>
+</a>
 <h3>Around the web</h3>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
