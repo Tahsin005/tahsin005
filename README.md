@@ -66,7 +66,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin005&" alt="tahsin005" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tahsin005/tahsin005/blob/main/images/svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tahsin005/tahsin005/blob/main/images/svg/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/tahsin005/tahsin005/blob/main/images/svg/github-contribution-grid-snake.svg">
 </picture>
+
