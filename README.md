@@ -9,12 +9,11 @@
 
 - ⚡ Fun fact **I am a competitive programmer and speed cuber.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md. tahsin ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. tahsin ferdous" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tahsinferdous3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tahsinferdous3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tahsin_ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahsin_ferdous" height="30" width="40" /></a>
-</p>
+**Frontend**
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap" height="45"/>
+</a>
 <h3>Around the web</h3>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
