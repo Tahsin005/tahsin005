@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/tahsinferdous3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tahsinferdous3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tahsin_ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahsin_ferdous" height="30" width="40" /></a>
 </p>
-### Around the web
+<h3>Around the web</h3>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
 <a href="https://www.linkedin.com/in/md-tahsin-ferdous-96684b267/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
