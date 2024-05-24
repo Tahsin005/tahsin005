@@ -41,32 +41,7 @@
 
 <br/>
 
-<h3>Frontend</h3>
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap" height="45"/>
-</a>
-
-<h3>Backend</h3>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-</a>
-
-<h3>Languages</h3>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="45"/>
-</a>
-
-
-<h3>Tools</h3>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github" height="45"/>
-</a>
-
-<br>
 
 
 
