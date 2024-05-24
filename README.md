@@ -60,9 +60,5 @@
 </div>
 <br />
 
-</div>
-<h3>Github Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin005&" alt="tahsin005" /></p>
-
 
 
