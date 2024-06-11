@@ -2,7 +2,7 @@
 <h3 align="center">A competitive programmer and backend developer from Bangladesh</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0](https://sites.google.com/view/tahsin-cubox2023/projects?authuser=0)
+- 👨‍💻 All of my projects are available at https://md-tahsin-ferdous-portfolio.netlify.app/
 
 - 📫 How to reach me **tahsin.ferdous3546@gmail.com**
 
