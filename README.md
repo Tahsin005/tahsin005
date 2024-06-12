@@ -5,7 +5,7 @@
 
 <div align='center'>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Developer;Pupil+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Software+Developer;Competitive+Programmer;Pupil+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
 </div>
 
 
