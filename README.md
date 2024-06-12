@@ -2,6 +2,11 @@
 <img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover.png" />
 
 <h1 align="center">Assalamu Alaikum, I am MD. Tahsin Ferdous</h1>
+
+<div align='center'>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">A competitive programmer and backend developer from Bangladesh</h3>
 
 
