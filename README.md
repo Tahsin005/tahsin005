@@ -7,7 +7,7 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Developer;Pupil+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">A competitive programmer and backend developer from Bangladesh</h3>
+
 
 
 - 👨‍💻 All of my projects are available at [Tahsin Portfolio](https://md-tahsin-ferdous-portfolio.netlify.app/)
@@ -24,7 +24,8 @@
 
 <br />
 <br/>
-<h3>Around the web</h3>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Around the web  </h2>
+<br>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
 <a href="https://www.linkedin.com/in/md-tahsin-ferdous-96684b267/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
