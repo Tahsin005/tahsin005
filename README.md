@@ -9,7 +9,7 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 - 👨‍💻 All of my projects are available at [Tahsin Portfolio](https://md-tahsin-ferdous-portfolio.netlify.app/)
 - 📫 How to reach me **tahsin.ferdous3546@gmail.com**
 
@@ -38,6 +38,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Tech Stacks
 
@@ -48,12 +49,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tahsin005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br/>
 ---
 
 
 <div align="center">
  <h1>Visitor count</h1>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
 	  
 ![Visitor Count](https://profile-counter.glitch.me/{tahsin005}/count.svg)
 </div>
@@ -72,7 +74,7 @@
 
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br />
 
 
