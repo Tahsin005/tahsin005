@@ -16,13 +16,13 @@
 <h2 align="center"> I'm majoring in Computer Science and Engineering (CSE), and I'm passionate about building full-stack web applications with JavaScript. My current skillset focuses on both backend and frontend development. On the backend, I'm using Django and Django REST Framework to create robust APIs. For the frontend, I leverage HTML, CSS, and Tailwind CSS for structure and styling, along with JavaScript for interactivity. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
 
 <div align="center" style="background-color: #5C4390">
-	<a target="_blank" href="https://md-tahsin-ferdous-portfolio.netlify.app/"><img src="https://github.com/Tahsin005/tahsin005/blob/main/My%20Portfolio%20(1).png"></a>
+	<a href="https://md-tahsin-ferdous-portfolio.netlify.app/"><img src="https://github.com/Tahsin005/tahsin005/blob/main/My%20Portfolio%20(1).png"></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br/>
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> Competitive Programming  </h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Competitive Programming  </h2>
 
 <a href="https://codeforces.com/profile/tahsin_ferdous">
    <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br/>
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> Reach Me Out  </h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Reach Me Out  </h2>
 
 <a href="https://www.facebook.com/tahsin.ferdous.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin badge"/></a>
 <a href="https://www.linkedin.com/in/md-tahsin-ferdous-96684b267/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
