@@ -25,10 +25,13 @@
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Competitive Programming Profiles </h2>
 
 
-<a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a>
-<a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a>
-<a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 
+
+<a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
+| Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
+|--------------------------------------------------------|------------|-----------------|------------|
+| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1290       | 827             | Pupil      |
+| <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a> | 1626       | 121             | 3 Star |
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
