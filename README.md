@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover.png" />
+<img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover_2.png" />
 
 <h1 align="center">Assalamu Alaikum, I am MD. Tahsin Ferdous</h1>
 
