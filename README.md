@@ -13,7 +13,7 @@
 
 <br/>
 
-<h4 align="center"> I'm a Computer Science major skilled in full-stack development, using Django for backend APIs and HTML, CSS, Tailwind, and JavaScript for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
+<h4 align="center"> I'm a Computer Science major skilled in full-stack development, using Django for backend APIs and HTML, CSS, Tailwind, JavaScript & React for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
 
 <div align="center" style="background-color: #5C4390">
 	<a href="https://md-tahsin-ferdous-portfolio.vercel.app/"><img src="https://github.com/Tahsin005/tahsin005/blob/main/My%20Portfolio%20(1).png"></a>
