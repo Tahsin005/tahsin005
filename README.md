@@ -32,7 +32,7 @@
 |--------------------------------------------------------|------------|-----------------|------------|
 | <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 939             | Pupil      |
 | <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a> | 1626       | 121             | 3 Star |
-| <a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a> | 1,464       | 257             | top 56% |
+| <a href="https://leetcode.com/user1674jI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a> | 1,464       | 258             | top 56% |
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
