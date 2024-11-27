@@ -5,7 +5,7 @@
 
 <div align='center'>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Software+Developer;Competitive+Programmer;Pupil+at+Codeforces;★★★+at+Codechef" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Software+Developer;Competitive+Programmer;ICPC+Dhaka+2024+Regionalist;Pupil+at+Codeforces;★★★+at+Codechef" alt="Typing SVG" /></a>
 </div>
 
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<h4 align="center"> I'm a Computer Science major skilled in full-stack development, using Django for backend APIs and HTML, CSS, Tailwind, JavaScript & React for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
+<h4 align="center">A Computer Science major with expertise in full-stack development—Django for backend APIs and HTML, CSS, Tailwind, JavaScript, & React for frontend. I'm also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications.</h4>
 
 <div align="center" style="background-color: #5C4390">
 	<a href="https://md-tahsin-ferdous-portfolio.vercel.app/"><img src="https://github.com/Tahsin005/tahsin005/blob/main/My%20Portfolio%20(1).png"></a>
