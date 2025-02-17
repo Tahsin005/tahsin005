@@ -13,7 +13,7 @@
 
 <br/>
 
-<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python) and Node.js/Express.js (JavaScript) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MongoDB.</h4>
+<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python) and Node.js/Express.js (JavaScript) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MySQL, Postgres and MongoDB.</h4>
 
 
 <div align="center" style="background-color: #5C4390">
