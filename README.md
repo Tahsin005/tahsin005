@@ -1,6 +1,7 @@
-![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg)
+<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="SavePalestine" width="300"/>
 <br/>
 <br/>
+
 
 <img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover_2.png" />
 
