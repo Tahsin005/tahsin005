@@ -17,7 +17,7 @@
 
 <br/>
 
-<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python) and Node.js/Express.js (JavaScript) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MySQL, Postgres and MongoDB.</h4>
+<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python) and Node.js/Express.js (JavaScript) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend and Next.js for the full-stack functionality. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MySQL, Postgres and MongoDB.</h4>
 
 
 <div align="center" style="background-color: #5C4390">
@@ -55,7 +55,7 @@
 
 | Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
 |--------------------------------------------------------|------------|-----------------|------------|
-| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 1126             | Pupil      |
+| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 1127             | Pupil      |
 | <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a> | 1626       | 123             | 3 Star |
 | <a href="https://leetcode.com/u/md-tahsin-ferdous/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a> | 1,464       | 431             | top 52.22% |
 </a>
