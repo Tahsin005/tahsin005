@@ -1,16 +1,20 @@
-<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="SavePalestine" width="300"/>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="SavePalestine" width="300"/>
+</div>
 <br/>
 <br/>
 
 
-<img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover_2.png" />
+<div align="center">
+	<img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover_2.png" />
+</div>
 
 <h1 align="center">Assalamu Alaikum, I'm MD. Tahsin Ferdous</h1>
 
 <div align='center'>
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Software+Developer;Competitive+Programmer;ICPC+Dhaka+24+Contestant;Pupil+at+Codeforces;★★★+at+Codechef" alt="Typing SVG" /></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=150&lines=Software+Developer;Competitive+Programmer;ICPC+Dhaka+24+Contestant;Pupil+at+Codeforces;★★★+at+Codechef;"></a>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
