@@ -39,7 +39,7 @@
             <b>🥅 2024 Goals:</b> To become CodeChef 3-star, solve 1000+ problems, and participate in ICPC Dhaka Regional <span style="color: #4caf50;">(✔ Done)</span>.
         </li>
         <li style="margin: 5px 0; background: #e3f2fd; padding: 10px; border-radius: 5px;">
-            <b>🥅 2025 Goals:</b> To improve my development skills and get a job.
+            <b>🥅 2025 Goals:</b> To improve my development skills and get a job <span style="color: #4caf50;">(✔ Done)</span>.
         </li>
     </ul>
 </div>
