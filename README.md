@@ -6,7 +6,7 @@
 
 
 <div align="center">
-	<img src="https://github.com/Tahsin005/tahsin005/blob/main/tahsin_github_cover_2.png" />
+	<img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/tahsin_github_cover_2.png" />
 </div>
 
 <h1 align="center">Assalamu Alaikum, I'm MD. Tahsin Ferdous</h1>
@@ -25,7 +25,7 @@
 
 
 <div align="center" style="background-color: #5C4390">
-	<a href="https://dev-md-tahsin-ferdous.vercel.app//"><img src="https://github.com/Tahsin005/tahsin005/blob/main/My%20Portfolio%20(1).png"></a>
+	<a href="https://dev-md-tahsin-ferdous.vercel.app//"><img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/My%20Portfolio%20(1).png"></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -146,8 +146,8 @@
 
 <div align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
 </picture>
 </div>
