@@ -21,7 +21,7 @@
 
 <br/>
 
-<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python) and Node.js/Express.js (JavaScript) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend and Next.js for the full-stack functionality. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MySQL, Postgres and MongoDB.</h4>
+<h4 align="center">A Computer Science major proficient in full-stack development, utilizing Django (Python), Node.js/Express.js (JavaScript), Gin (Golang) for backend APIs, and HTML, CSS, Tailwind, JavaScript, & React for the frontend and Next.js for the full-stack functionality. Also an ICPC Dhaka Regional 2024 Contestant, driven by a passion for creating user-friendly, scalable web applications with databases like MySQL, Postgres and MongoDB.</h4>
 
 
 <div align="center" style="background-color: #5C4390">
@@ -89,6 +89,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
