@@ -59,7 +59,7 @@
 
 | Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
 |--------------------------------------------------------|------------|-----------------|------------|
-| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 1161             | Pupil      |
+| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 1162             | Pupil      |
 | <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a> | 1626       | 123             | 3 Star |
 | <a href="https://leetcode.com/u/md-tahsin-ferdous/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a> | 1,464       | 465             | top 52.22% |
 </a>
