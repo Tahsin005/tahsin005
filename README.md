@@ -34,19 +34,12 @@
 <br/>
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Goals  </h2>
 
-<div style="font-family: Arial, sans-serif; padding: 10px; background-color: #f9f9f9; border-radius: 10px; border: 2px solid #e3e3e3;">
-    <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.8;">
-        <li style="margin: 5px 0; background: #e8f5e9; padding: 10px; border-radius: 5px;">
-            <b>🥅 2023 Goals:</b> Complete DSA and become Codeforces Pupil <span style="color: #4caf50;">(✔ Done)</span>.
-        </li>
-        <li style="margin: 5px 0; background: #fff8e1; padding: 10px; border-radius: 5px;">
-            <b>🥅 2024 Goals:</b> To become CodeChef 3-star, solve 1000+ problems, and participate in ICPC Dhaka Regional <span style="color: #4caf50;">(✔ Done)</span>.
-        </li>
-        <li style="margin: 5px 0; background: #e3f2fd; padding: 10px; border-radius: 5px;">
-            <b>🥅 2025 Goals:</b> To improve my development skills and get a job <span style="color: #4caf50;">(✔ Done)</span>.
-        </li>
-    </ul>
-</div>
+| Year | Goals | Status |
+|------|-------|--------|
+| **2023** | Complete DSA and become Codeforces Pupil | ✅ **Completed** |
+| **2024** | Achieve CodeChef 3-star, solve 1000+ problems, participate in ICPC | ✅ **Completed** |
+| **2025** | Improve development skills and secure a software engineering position | ✅ **Completed** |
+
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -57,12 +50,13 @@
 
 
 
-| Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
-|--------------------------------------------------------|------------|-----------------|------------|
-| <a href="https://codeforces.com/profile/tahsin_ferdous"><img src="https://img.shields.io/badge/Codeforces-F5F5DC?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=DC143C" alt="Codeforces badge"/></a> | 1352       | 1169             | Pupil      |
-| <a href="https://www.codechef.com/users/tahsinferdous3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef badge"/></a> | 1626       | 123             | 3 Star |
-| <a href="https://leetcode.com/u/md-tahsin-ferdous/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a> | 1,464       | 472             | top 52.22% |
-</a>
+
+| Platform | Rating | Problems Solved | Rank |
+|----------|--------|-----------------|------|
+| [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/tahsin_ferdous) | **1352** | **1169** | **Pupil** |
+| [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>](https://www.codechef.com/users/tahsinferdous3) | **1626** | **123** | **3 Star** |
+| [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/md-tahsin-ferdous/) | **1464** | **472** | **Top 52.22%** |
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -134,7 +128,7 @@
 
 
 
-<div align="center">
+<div align="start">
  <h1>Visitor count</h1>
 
 
@@ -145,7 +139,7 @@
 <br/>
 
 
-<div align="center">
+<div align="start">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/assets/github-contribution-grid-snake.svg">
