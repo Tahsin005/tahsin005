@@ -5,14 +5,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/new_banner.jpg" />
+  <img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/banner.png" />
 </div>
 
-<h1 align="center">Assalamu Alaikum, I'm <span style="color:#5C4390;">MD. Tahsin Ferdous</span></h1>
+<h1 align="center">Assalamu Alaikum, I'm <span style="color:#945acb;">MD. Tahsin Ferdous</span></h1>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=5C4390&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer;Competitive+Programmer;ICPC+Dhaka+24+Contestant;Pupil+at+Codeforces;★★★+at+Codechef" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=5C4390&size=25&center=true&vCenter=true&width=1000&lines=Software+Engineer;Competitive+Programmer;ICPC+Dhaka+24+Contestant;Pupil+at+Codeforces;★★★+at+Codechef" alt="Typing SVG">
   </a>
 </div>
 
