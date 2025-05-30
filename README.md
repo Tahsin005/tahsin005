@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 Full Stack Developer | 🎯 Problem Solver | 🧩 Speed Cuber</h3>
+<h3 align="center">👨‍💻 Full Stack Engineer | 🎯 Problem Solver | 🧩 Speed Cuber</h3>
 
 <h4 align="center">
   Proficient in building modern web apps using Django, Node.js, and Golang for backends. On the frontend, I use HTML, CSS, Tailwind, React & Next.js to craft scalable UI experiences. <br/>
@@ -84,9 +84,9 @@
 
 | Platform                                                                 | Rating     | Problems Solved | Rank     |
 |--------------------------------------------------------------------------|------------|------------------|----------|
-| [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/tahsin_ferdous)             | **1352**   | **1171**         | Pupil    |
+| [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/tahsin_ferdous)             | **1352**   | **1172**         | Pupil    |
 | [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>](https://www.codechef.com/users/tahsinferdous3)               | **1626**   | **123**          | 3 Star   |
-| [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/md-tahsin-ferdous/)                   | **1464**   | **475**          | Top 52%  |
+| [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/md-tahsin-ferdous/)                   | **1464**   | **476**          | Top 52%  |
 
 ---
 
