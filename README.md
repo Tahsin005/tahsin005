@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/banner.png" />
+  <img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/new_banner.png" />
 </div>
 
 <h1 align="center">Assalamu Alaikum, I'm <span style="color:#945acb;">MD. Tahsin Ferdous</span></h1>
