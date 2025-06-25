@@ -22,13 +22,6 @@
 
 <h3 align="center">👨‍💻 Full Stack Engineer | 🎯 Problem Solver | 🧩 Speed Cuber</h3>
 
-<h4 align="center">
-  Proficient in building modern web apps using Django, Node.js, and Golang for backends. On the frontend, I use HTML, CSS, Tailwind, React & Next.js to craft scalable UI experiences. <br/>
-  I’m also an ICPC Dhaka 2024 Contestant, passionate about combining clean design with robust engineering using MySQL, Postgres & MongoDB.
-</h4>
-
-<br/>
-
 ---
 
 ## 📫 Reach Me
