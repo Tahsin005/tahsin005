@@ -44,7 +44,6 @@
 
 <table>
   <tr>
-
     <th>Year</th>
     <th>Goals</th>
     <th>Status</th>
