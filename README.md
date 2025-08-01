@@ -44,6 +44,7 @@
 
 <table>
   <tr>
+
     <th>Year</th>
     <th>Goals</th>
     <th>Status</th>
@@ -127,4 +128,4 @@
 
 ## 🧮 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{tahsin005}/count.svg)
+<img src="https://profile-counter.deno.dev/tahsin005/count.svg" alt="Key:: Visitor's Count" />
