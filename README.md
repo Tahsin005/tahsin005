@@ -79,7 +79,7 @@
 |--------------------------------------------------------------------------|------------|------------------|----------|
 | [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/tahsin_ferdous)             | **1352**   | **1258**         | Pupil    |
 | [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>](https://www.codechef.com/users/tahsinferdous3)               | **1626**   | **123**          | 3 Star   |
-| [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/md-tahsin-ferdous/)                   | **1464**   | **558**          | Top 52.39%  |
+| [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/md-tahsin-ferdous/)                   | **1464**   | **559**          | Top 52.39%  |
 
 ---
 
