@@ -133,5 +133,3 @@
 ## 🧮 Visitor Count
 
 <img src="https://profile-counter.deno.dev/tahsin005/count.svg" alt="Key:: Visitor's Count" />
-
-1
