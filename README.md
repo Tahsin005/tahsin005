@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td><strong>2025</strong></td>
-    <td>Improve development skills and secure a software engineering position</td>
+    <td>Improve development skills and secure a software engineering position, participate in ICPC for the 2nd time</td>
     <td>✅ Done</td>
   </tr>
   <tr>
