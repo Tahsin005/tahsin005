@@ -128,8 +128,4 @@
 [![](https://nirzak-streak-stats.vercel.app?user=tahsin005)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin005&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 🧮 Visitor Count
-
-<img src="https://profile-counter.deno.dev/tahsin005/count.svg" alt="Key:: Visitor's Count" />
