@@ -125,5 +125,5 @@
 
 ## 📊 Github Stats
 
-[![](https://nirzak-streak-stats.vercel.app?user=tahsin005)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=tahsin005)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin005&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
