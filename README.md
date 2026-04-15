@@ -160,8 +160,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tahsin005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
 ![](https://streak-stats.demolab.com/?user=tahsin005&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin005&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)
