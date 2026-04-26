@@ -1,0 +1,191 @@
+%-------------------------
+% Resume in LaTeX
+% Author : MD. Tahsin Ferdous
+%-------------------------
+
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.7in}       % was -.5in
+\addtolength{\textheight}{1.2in}      % was 1.0in
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large  % was -4pt
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%-------------------------
+% Custom Commands
+%-------------------------
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%==========================================================
+%                   RESUME STARTS HERE
+%==========================================================
+
+\begin{document}
+
+%-------------- HEADING -----------------------------------
+\begin{center}
+    {\Huge \scshape MD. Tahsin Ferdous} \\ \vspace{4pt}
+    {\large Software Engineer} \\ \vspace{6pt}
+    \small
+    \href{mailto:tahsin.ferdous3546@gmail.com}{\underline{tahsin.ferdous3546@gmail.com}} $|$
+    \href{tel:+8801795368447}{+880 1795-368447} $|$
+    Savar, Dhaka, Bangladesh \\ \vspace{2pt}
+    \href{https://www.linkedin.com/in/md-tahsin-ferdous/}{\underline{LinkedIn}} $|$
+    \href{https://github.com/tahsin005}{\underline{GitHub}} $|$
+    \href{https://tahsin-exe.vercel.app/}{\underline{Portfolio}}
+\end{center}
+
+%-------------- SUMMARY -----------------------------------
+\section{Summary}
+\small{Software Engineer with 1 Year of professional experience building scalable SaaS products using React.js, Express, Django, Golang, and PostgreSQL. Experienced in payment integrations, API design, and workflow automation. 2x ICPC Dhaka Regional Onsite Contestant with a strong algorithmic problem-solving background.}
+
+
+%-------------- EXPERIENCE --------------------------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Junior Software Engineer}{April 2025 -- March 2026}
+      {AffPilot (AI SaaS Startup)}{Onsite}
+      \resumeItemListStart
+        \resumeItem{Developed and maintained two SaaS products -- \textbf{Growthly} and \textbf{AffPilot} -- using React.js, Django, Golang, PostgreSQL, Redis, and Docker, supporting \textbf{1,000+ active users}.}
+        \resumeItem{Built admin and content management systems with features including Excel resource parsing, facet-based filtering, and automated publishing workflows, reducing manual content operations by \textbf{\textasciitilde40\%}.}
+        \resumeItem{Integrated \textbf{Stripe} and \textbf{SSLCOMMERZ} payment gateways through a centralized payment system; implemented Shopify/WordPress integrations and security measures including Google reCAPTCHA v3 and IP-based rate limiting.}
+        \resumeItem{\textbf{Technologies:} Go, Python, Django, Django REST Framework, React.js, Tailwind CSS, RabbitMQ, PostgreSQL, Redis, Docker}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-------------- TECHNICAL SKILLS -------------------------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages:}{ C++, JavaScript, TypeScript, Python, Golang} \\[2pt]
+     \textbf{Frontend:}{ React.js, Next.js, Tailwind CSS} \\[2pt]
+     \textbf{Backend \& Frameworks:}{ Django, Django REST Framework, Gin, GORM, Express.js, Node.js, Prisma, Mongoose} \\[2pt]
+     \textbf{Databases:}{ PostgreSQL, MongoDB, Redis} \\[2pt]
+     \textbf{Tools \& Platforms:}{ Docker, Git, GitHub, Stripe, SSLCOMMERZ} \\[2pt]
+     \textbf{Soft Skills:}{ Quick Learner, Adaptability, Teamwork, Critical Thinking, Responsibility}
+    }}
+ \end{itemize}
+
+%-------------- PROJECTS ---------------------------------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\textbf{Socially} $|$ \emph{Full-Stack Social Media Web App} $|$
+          \href{https://socially-orcin.vercel.app/}{\underline{Live}} $|$
+          \href{https://github.com/Tahsin005/Socially}{\underline{GitHub}}}{}
+          \resumeItemListStart
+            \resumeItem{A Twitter-inspired full-stack social media platform using Next.js App Router with Google OAuth (Clerk), profile management, follow/unfollow system, post creation with media uploads, likes/comments, and real-time notifications.}
+            \resumeItem{Secured API routes with JWT and password hashing; delivered a fully responsive UI across all screen sizes achieving \textbf{sub-2s} page load times.}
+            \resumeItem{\textbf{Stack:} Next.js App Router, TypeScript, PostgreSQL, Prisma ORM, Clerk, Tailwind CSS}
+          \resumeItemListEnd
+
+      \vspace{4pt}
+      \resumeProjectHeading
+          {\textbf{Shoppio} $|$ \emph{Full-Stack E-Commerce Platform} $|$
+          \href{https://shoppio-theta.vercel.app/}{\underline{Live}} $|$
+          \href{https://github.com/tahsin005/shoppio}{\underline{GitHub}}}{}
+          \resumeItemListStart
+            \resumeItem{A complete e-commerce platform with product browsing, cart, wishlist, real-time order tracking, Clerk-based authentication, and a full admin dashboard supporting product management and inventory updates for \textbf{50+ product listings}.}
+            \resumeItem{Integrated \textbf{Moneybag} payment gateway and engineered a \textbf{30\% loyalty rewards system} with complete transaction history covering purchases, refunds, and earned points.}
+            \resumeItem{\textbf{Stack:} React.js (Vite), Tailwind CSS, Express.js, MongoDB, Mongoose, Clerk, Moneybag Payment Gateway}
+          \resumeItemListEnd
+
+      \vspace{4pt}
+      \resumeProjectHeading
+          {\textbf{AffPilot} $|$ \emph{AI SaaS Platform} $|$
+          \href{https://app.affpilot.com}{\underline{Live}}}{}
+          \resumeItemListStart
+            \resumeItem{Implemented Shopify integration enabling users to publish AI-generated blogs directly to Shopify stores; contributed to WordPress and Blogger automation workflows.}
+            \resumeItem{Developed a centralized payment system using \textbf{Stripe} across AffPilot's product suite; contributed to backend integrations for scalable publishing workflows.}
+            \resumeItem{\textbf{Stack:} React.js, Material UI, Django, PostgreSQL, Stripe, SSLCOMMERZ, Shopify API}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+    
+%-------------- EDUCATION ---------------------------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {City University, Bangladesh}{Savar, Dhaka}
+      {B.Sc in Computer Science \& Engineering}{2022 -- 2025}
+  \resumeSubHeadingListEnd
+
+%-------------- ACHIEVEMENTS ------------------------------
+\section{Achievements}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{ICPC:}{ 2x Dhaka Regional Onsite Contestant (24, 25)} \\[2pt]
+     \textbf{Codeforces:}{ Pupil Rank $|$ \href{https://codeforces.com/profile/tahsin005}{\underline{Profile}}} \\[2pt]
+     \textbf{CodeChef:}{ 3 Star $|$ \href{https://www.codechef.com/users/tahsin005}{\underline{Profile}}} \\[2pt]
+     \textbf{LeetCode:}{ Active Problem Solver $|$ \href{https://leetcode.com/tahsin005}{\underline{Profile}}}
+    }}
+ \end{itemize}
+
+%==========================================================
+\end{document}
