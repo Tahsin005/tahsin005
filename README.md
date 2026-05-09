@@ -2,33 +2,6 @@
   <img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="SavePalestine" width="280"/>
 </div>
 
----
-
-## 🧪 Mini Git-like VCS in Go
-
-This repository now includes a tiny Git-like version control tool written in Go: **`govcs`**.
-
-Implemented features for the initial version:
-- **Tracking** files (`track`)
-- **Staging** tracked files (`stage`)
-- **Committing** staged snapshots (`commit`)
-
-### Run
-
-```bash
-go run ./cmd/govcs init
-go run ./cmd/govcs track <file>
-go run ./cmd/govcs stage
-go run ./cmd/govcs commit -m "your message"
-```
-
-`govcs` stores repository data in a `.govcs/` directory:
-- `tracked.json` → tracked file list
-- `index.json` → staging index
-- `objects/` → content-addressed file blobs
-- `commits/` → commit metadata
-- `HEAD` → latest commit id
-
 <br/>
 
 <div align="center">
