@@ -211,7 +211,7 @@ func (r *Repository) Commit(message string) (*Commit, error) {
 		return nil, errors.New("nothing staged to commit")
 	}
 
-	previous := strings.TrimSpace(string(mustReadFile(filepath.Join(r.vcsPath(), headFileName))))
+	previous := strings.TrimSpace(string(readFileOrEmpty(filepath.Join(r.vcsPath(), headFileName))))
 	now := time.Now().UTC().Format(time.RFC3339Nano)
 
 	idRaw := fmt.Sprintf("%s|%s|%s|%d", previous, message, now, len(index))
@@ -318,7 +318,7 @@ func writeJSON(path string, value any) error {
 	return os.WriteFile(path, data, 0o644)
 }
 
-func mustReadFile(path string) []byte {
+func readFileOrEmpty(path string) []byte {
 	data, err := os.ReadFile(path)
 	if err != nil {
 		return []byte{}
