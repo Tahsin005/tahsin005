@@ -1,0 +1,295 @@
+%-------------------------
+% Resume in LaTeX
+% Author : MD. Tahsin Ferdous
+%-------------------------
+
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\definecolor{navyblue}{RGB}{54, 78, 214}
+\usepackage[colorlinks=true, urlcolor=navyblue, urlbordercolor={0 0 0}]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.2in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom Commands
+%-------------------------
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\[7pt]
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-2pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%==========================================================
+%                   RESUME STARTS HERE
+%==========================================================
+
+\begin{document}
+
+%-------------- HEADING -----------------------------------
+
+\begin{center}
+    {\LARGE \scshape MD. Tahsin Ferdous} \\ \vspace{4pt}
+    {\large\bfseries Frontend Developer} \\ \vspace{6pt}
+    \small
+    tahsin.ferdous3546@gmail.com $|$
+    +880 1795-368447 $|$
+    Savar, Dhaka, Bangladesh $|$
+    \href{https://www.linkedin.com/in/md-tahsin-ferdous/}{LinkedIn} $|$
+    \href{https://github.com/Tahsin005}{GitHub} $|$
+    \href{https://tahsin-exe.vercel.app/}{Portfolio}
+\end{center}
+
+%-------------- SUMMARY -----------------------------------
+
+\section{Summary}
+
+\small{
+Frontend Developer with experience building responsive, production-grade interfaces using {React.js, Next.js, and Tailwind CSS}, backed by strong API integration and full-stack collaboration experience with Django/Node.js backends. Skilled in real-time UI, state management, and performance-focused interactive dashboards. Proven ability to ship polished user-facing products, supported by a strong competitive programming background.
+}
+
+%-------------- TECHNICAL SKILLS -------------------------
+
+\section{Technical Skills}
+
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+
+\textbf{Frontend:}{ React.js, Next.js, Tailwind CSS, Zustand, TanStack Query} \\[2pt]
+
+\textbf{Languages:}{ JavaScript, TypeScript, Python, Golang, C++} \\[2pt]
+
+\textbf{UI Libraries:}{ Material UI, Tailwind CSS v4, Leaflet} \\[2pt]
+
+\textbf{Databases:}{ PostgreSQL, MongoDB, Redis} \\[2pt]
+
+\textbf{Messaging \& APIs:}{ REST, Webhooks, RabbitMQ, gRPC} \\[2pt]
+
+\textbf{Tools \& Platforms:}{ Git, GitHub, Docker, Stripe, SSLCOMMERZ} \\[2pt]
+
+\textbf{Problem Solving:}
+\href{https://codeforces.com/profile/tahsin_ferdous}{Codeforces Pupil}
+$|$
+\href{https://www.codechef.com/users/tahsinferdous3}{CodeChef 3 Star}
+$|$
+\href{https://leetcode.com/u/md-tahsin-ferdous/}{LeetCode}
+\\[2pt]
+
+\textbf{Soft Skills:}{ Quick Learner, Adaptability, Teamwork, Critical Thinking, Responsibility}
+
+}}
+\end{itemize}
+%-------------- EXPERIENCE --------------------------------
+
+\section{Experience}
+
+\vspace{4pt}
+
+\resumeSubHeadingListStart
+
+\resumeSubSubheading
+{Junior Software Engineer}{April 2025 -- March 2026}
+{AffPilot (AI SaaS Startup)}{Onsite}
+
+\vspace{4pt}
+
+\resumeItemListStart
+
+\resumeItem{Built and scaled {Growthly} and {AffPilot} SaaS products with {Django}, {React.js}, and {Golang}, supporting {1,000+ active users}.}
+
+\resumeItem{Developed CMS with Excel parsing, facet filtering, and {RabbitMQ}-powered workflows, reducing manual operations by approximately {\textasciitilde40\%}.}
+
+\resumeItem{Integrated {Stripe} and {SSLCOMMERZ} payment gateways with Shopify/WordPress publishing via {PostgreSQL} and {Redis}.}
+
+\resumeItem{Secured platform using reCAPTCHA v3, IP rate limiting, and Dockerized services built with {Django REST Framework}.}
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-------------- PROJECTS ---------------------------------
+
+\section{Projects}
+
+\vspace{4pt}
+
+\resumeSubHeadingListStart
+
+%---------------------------------------------------------
+% Project 1
+%---------------------------------------------------------
+
+\resumeProjectHeading
+{\textbf{AffPilot} $|$ {AI SaaS Platform}}
+{\href{https://app.affpilot.com}{Live}}
+
+\\\vspace{2pt}
+
+\resumeItemListStart
+
+\resumeItem{Implemented Shopify, WordPress, and Blogger publishing integrations for AI-generated blog content automation.}
+
+\resumeItem{Built a centralized {Stripe}/{SSLCOMMERZ} payment platform managing transactions across AffPilot's product suite for over 1,000 users.}
+
+\resumeItem{\textbf{Stack:} Django, PostgreSQL, React.js, Material UI, Stripe, SSLCOMMERZ, Shopify API}
+
+\resumeItemListEnd
+
+\vspace{2pt}
+
+%---------------------------------------------------------
+% Project 2
+%---------------------------------------------------------
+
+\resumeProjectHeading
+{\textbf{Northwind} $|$ {Full-Stack E-Commerce \& Support Platform}}
+{\href{https://northwind-kappa.vercel.app/}{Live}}
+
+\\\vspace{2pt}
+
+\resumeItemListStart
+
+\resumeItem{Built a modern e-commerce frontend using {React.js}, {Tailwind CSS}, {Zustand}, and {TanStack Query}, implementing responsive product pages, secure checkout flows, and dynamic role-based UI states powered by Clerk authentication.}
+
+\resumeItem{Integrated {Stream Chat} and {Stream Video} SDKs to deliver real-time customer support interfaces with seamless user-admin messaging and video communication.}
+
+\resumeItem{\textbf{Stack:} React.js, Tailwind CSS, Zustand, TanStack Query, Clerk, Stream SDK, ImageKit, Sentry, Node.js, Express.js, PostgreSQL}
+
+\resumeItemListEnd
+
+\vspace{2pt}
+%---------------------------------------------------------
+% Project 3
+%---------------------------------------------------------
+
+\resumeProjectHeading
+{\textbf{Real-Time Weather Dashboard} $|$ {Interactive Weather Platform}}
+{\href{https://realtime-weather-dashboard-delta.vercel.app/}{Live}}
+
+\\\vspace{2pt}
+
+\resumeItemListStart
+
+\resumeItem{Engineered a high-performance weather dashboard using {React 19}, {TypeScript}, and {TanStack Query}, integrating OpenWeather APIs to deliver real-time metrics, detailed forecasts, and localized air quality indicators.}
+
+\resumeItem{Developed an interactive {Leaflet} map featuring dynamic weather tile overlays (temperature, precipitation, wind) with coordinate-based location selection in a responsive Tailwind CSS interface.}
+
+\resumeItem{\textbf{Stack:} React 19, TypeScript, Vite, TanStack Query, Tailwind CSS, Leaflet, Zod, OpenWeather API}
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-------------- EDUCATION ---------------------------------
+
+\section{Education}
+
+\vspace{4pt}
+
+\resumeSubHeadingListStart
+
+\resumeSubSubheading
+{City University, Bangladesh}{}
+{B.Sc in Computer Science \& Engineering}{2022 -- 2025}
+
+\resumeSubHeadingListEnd
+
+%-------------- ACHIEVEMENTS ------------------------------
+
+\section{Achievements}
+
+\vspace{4pt}
+
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+
+\textbf{ICPC:}{ 2x Dhaka Regional Onsite Contestant (2024, 2025)} \\[2pt]
+
+}}
+\end{itemize}
+
+%-------------- LANGUAGES ---------------------------------
+
+\section{Languages}
+
+\vspace{4pt}
+
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+
+\textbf{Bengali:}{ Native} \quad\quad
+\textbf{English:}{ Professional Proficiency}
+
+}}
+\end{itemize}
+
+%==========================================================
+
+\end{document}

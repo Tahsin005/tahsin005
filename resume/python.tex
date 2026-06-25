@@ -1,0 +1,213 @@
+%-------------------------
+% Resume in LaTeX
+% Author : MD. Tahsin Ferdous
+%-------------------------
+
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\definecolor{navyblue}{RGB}{54, 78, 214}
+\usepackage[colorlinks=true, urlcolor=navyblue, urlbordercolor={0 0 0}]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.7in}       % was -.5in
+\addtolength{\textheight}{1.2in}      % was 1.0in
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large  % was -4pt
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom Commands
+%-------------------------
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\[7pt]
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-2pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%==========================================================
+%                   RESUME STARTS HERE
+%==========================================================
+
+\begin{document}
+
+%-------------- HEADING -----------------------------------
+\begin{center}
+    {\LARGE \scshape MD. Tahsin Ferdous} \\ \vspace{4pt}
+    {\large\bfseries Python Developer} \\ \vspace{6pt}
+    \small
+    tahsin.ferdous3546@gmail.com $|$
+    +880 1795-368447 $|$
+    Savar, Dhaka, Bangladesh $|$
+    \href{https://www.linkedin.com/in/md-tahsin-ferdous/}{LinkedIn} $|$
+    \href{https://github.com/tahsin005}{GitHub} $|$
+    \href{https://tahsin-exe.vercel.app/}{Portfolio}
+\end{center}
+
+%-------------- SUMMARY -----------------------------------
+\section{Summary}
+\small{
+Python Developer with experience building production-grade APIs and scalable SaaS platforms using {Python, Django, and Django REST Framework}. Strong experience in backend architecture, workflow automation, distributed task processing with RabbitMQ/Redis, and Python-based AI/ML integrations (Google GenAI, sentence-transformers). Proven ability to design scalable systems serving 1,000+ users, supported by strong competitive programming background.
+}
+
+
+%-------------- TECHNICAL SKILLS -------------------------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages:}{ Python, C++, JavaScript, TypeScript, Golang} \\[2pt]
+     \textbf{Python \& Backend:}{ Django, Django REery-style task queues} \\[2pt]
+     \textbf{Databases:}{ PostgreSQL, MongoDB, Redis} \\[2pt]
+     \textbf{Tools \& Platforms:}{ Docker, Git, GitHub, RabbitMQ, Stripe, SSLCOMMERZ} \\[2pt]
+     \textbf{Problem Solving:} \href{https://codeforces.com/profile/tahsin_ferdous}{Codeforces Pupil} $|$  \href{https://www.codechef.com/users/tahsinferdous3}{Codechef 3 Star}  $|$  \href{https://leetcode.com/u/md-tahsin-ferdous/}{Leetcode} \\[2pt]
+     \textbf{Soft Skills:}{ Quick Learner, Adaptability, Teamwork, Critical Thinking, Responsibility}
+    }}
+ \end{itemize}
+
+%-------------- EXPERIENCE --------------------------------
+\section{Experience}
+\vspace{4pt}
+  \resumeSubHeadingListStart
+    \resumeSubSubheading
+      {Junior Software Engineer}{April 2025 -- March 2026}
+      {AffPilot (AI SaaS Startup)}{Onsite}
+      \vspace{4pt}
+      \resumeItemListStart
+        \resumeItem{Built and scaled {Growthly} and {AffPilot} SaaS products with {Django}, {React.js}, and {Golang}, supporting {1,000+ active users}.}
+        \resumeItem{Developed CMS with Excel parsing, facet filtering, and {RabbitMQ}-powered workflows, cutting manual operations by {\textasciitilde40\%}.}
+        \resumeItem{Integrated {Stripe} and {SSLCOMMERZ} payment gateways with Shopify/WordPress publishing via {PostgreSQL} and {Redis}.}
+        \resumeItem{Secured platform with reCAPTCHA v3 and IP rate limiting; containerized all services using {Docker} and {Django REST Framework}.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-------------- PROJECTS ---------------------------------
+\section{Projects}
+    \vspace{4pt}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Affpilot} $|$ {AI SaaS Platform}}
+            {\href{https://app.affpilot.com}{{Live}}}
+          \\\vspace{2pt}
+          \resumeItemListStart
+            \resumeItem{Implemented Shopify, WordPress, and Blogger publishing integrations for AI-generated blog content automation.}
+            \resumeItem{Built a centralized {Stripe}/{SSLCOMMERZ} payment system managing transactions across AffPilot's product suite for 1,000+ users.}
+            \resumeItem{\textbf{Stack:} Django, PostgreSQL, React.js, Material UI, Stripe, SSLCOMMERZ, Shopify API}
+          \resumeItemListEnd
+      \vspace{2pt}
+
+      \resumeProjectHeading
+        {\textbf{RAG Search Engine} $|$ {Retrieval-Augmented Generation System}}
+            {\href{https://github.com/Tahsin005/rag-search-engine}{{GitHub}}}
+        \\\vspace{2pt}
+        \resumeItemListStart
+          \resumeItem{Built a search engine implementing keyword ({BM25}/{TF-IDF}), semantic ({sentence-transformers}), and hybrid ({Reciprocal Rank Fusion}) retrieval paradigms.}
+          \resumeItem{Integrated {Google GenAI} (Gemini/Gemma) and {CLIP} embeddings to enable multimodal image-to-text queries with context-aware, cited responses.}
+          \resumeItem{\textbf{Stack:} Python, Sentence Transformers, Google GenAI API (Gemini/Gemma), NLTK, NumPy, Pillow}
+        \resumeItemListEnd
+      \vspace{2pt}
+
+      \resumeProjectHeading
+        {\textbf{Somewhat Simple AI Agent} $|$ {Autonomous Coding Assistant}}
+            {\href{https://github.com/Tahsin005/somewhat-simple-ai-agent}{{GitHub}}}
+          \\\vspace{2pt}
+          \resumeItemListStart
+            \resumeItem{Engineered an autonomous coding agent using the {Google GenAI SDK} (Gemini 2.5 Flash) to independently navigate codebases, diagnose bugs, and implement fixes from natural language prompts.}
+            \resumeItem{Developed a tool-calling architecture enabling the agent to explore directories, inspect files, and safely execute Python scripts with built-in execution safeguards.}
+            \resumeItem{\textbf{Stack:} Python, Google GenAI SDK, Gemini API, python-dotenv, uv}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-------------- EDUCATION ---------------------------------
+\section{Education}
+\vspace{4pt}
+  \resumeSubHeadingListStart
+    \resumeSubSubheading
+      {City University, Bangladesh}{}
+      {B.Sc in Computer Science \& Engineering}{2022 -- 2025}
+  \resumeSubHeadingListEnd
+
+
+
+%-------------- ACHIEVEMENTS ------------------------------
+\section{Achievements}
+\vspace{4pt}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{ICPC:}{ 2x Dhaka Regional Onsite Contestant (24, 25)} \\[2pt]
+    }}
+ \end{itemize}
+
+%-------------- LANGUAGES ---------------------------------
+\section{Languages}
+\vspace{4pt}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Bengali:}{ Native} \quad\quad
+     \textbf{English:}{ Professional Proficiency}
+    }}
+ \end{itemize}
+
+%==========================================================
+\end{document}
