@@ -8,7 +8,7 @@
   <img src="https://github.com/Tahsin005/tahsin005/blob/main/assets/linkedin-banner-2.png" />
 </div>
 
-<h1 align="center">Assalamu Alaikum, I'm <span style="color:#945acb;">MD. Tahsin Ferdous</span></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4390,100:945acb&height=160&section=header&text=Assalamu%20Alaikum,%20I'm%20MD.%20Tahsin%20Ferdous&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,11 +18,13 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahsin005&color=945acb&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
 
 <h3 align="center">👨‍💻 Full Stack Engineer | 🎯 Problem Solver | 🧩 Speed Cuber</h3>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 🙋‍♂️ About Me
 
@@ -31,7 +33,7 @@
 - 🏆 **ICPC Dhaka Regional '24 & '25** Onsite Contestant | Codeforces **Pupil** | CodeChef **3-Star** | Solved **2000+** problems across platforms
 - 🔭 Passionate about crafting robust, scalable systems and diving deep into the fundamentals of Computer Science
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 🚀 Currently
 
@@ -39,7 +41,7 @@
 - 📖 Understanding core CS concepts in depth — OS, networking, databases & low-level internals
 - ⚙️ Sharpening backend architecture skills with **Go** and diving deeper into **Next.js** on the frontend
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 📫 Reach Me
 
@@ -53,20 +55,11 @@
   <a href="https://www.facebook.com/tahsin.gopher/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/tahsin_ferdous">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/tahsinferdous3">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/md-tahsin-ferdous/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
 </div>
 
 <p align="start">📧 <strong>tahsin.ferdous3546@gmail.com</strong></p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 🎯 Goals
 
@@ -98,7 +91,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 🏆 Competitive Programming
 
@@ -108,7 +101,13 @@
 | [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahsinferdous3) | **1626** | **123** | 3 Star |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/md-tahsin-ferdous/) | **1464** | **871** | Top 52.4% |
 
----
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=tahsin005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -154,7 +153,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -162,6 +161,6 @@
 
 ![](https://streak-stats.demolab.com/?user=tahsin005&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin005&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4390,100:945acb&height=100&section=footer" width="100%"/>
