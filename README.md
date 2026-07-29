@@ -27,7 +27,7 @@
   &nbsp;|&nbsp;
   <img src="https://monochrome-emojis.vercel.app/emoji?target=purple" width="20" height="20" align="top"/> Problem Solver
   &nbsp;|&nbsp;
-  <img src="https://monochrome-emojis.vercel.app/emoji?puzzle=purple" width="20" height="20" align="texttop"/> Speed Cuber
+  <img src="https://monochrome-emojis.vercel.app/lucid?puzzle=purple" width="20" height="20" align="texttop"/> Speed Cuber
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -43,8 +43,8 @@
 
 ## <img src="https://monochrome-emojis.vercel.app/emoji?rocket=purple" width="25" height="25" align="absmiddle"/> Currently
 
-- <img src="https://monochrome-emojis.vercel.app/emoji?triangular_ruler=purple" width="20" height="20" align="absmiddle"/> Exploring **System Design** — scalability, load balancing, distributed systems & architecture patterns
-- <img src="https://monochrome-emojis.vercel.app/emoji?open_book=purple" width="20" height="20" align="absmiddle"/> Understanding core CS concepts in depth — OS, networking, databases & low-level internals
+- <img src="https://monochrome-emojis.vercel.app/lucid?triangle-right=purple" width="20" height="20" align="absmiddle"/> Exploring **System Design** — scalability, load balancing, distributed systems & architecture patterns
+- <img src="https://monochrome-emojis.vercel.app/lucid?book-open-text=purple" width="20" height="20" align="absmiddle"/> Understanding core CS concepts in depth — OS, networking, databases & low-level internals
 - <img src="https://monochrome-emojis.vercel.app/emoji?gear=purple" width="20" height="20" align="absmiddle"/> Sharpening backend architecture skills with **Go** and diving deeper into **Next.js** on the frontend
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -64,7 +64,7 @@
 </div>
 
 <p align="start">
-  <img src="https://monochrome-emojis.vercel.app/emoji?email=purple" width="18" height="18" align="texttop"/> <strong>tahsin.ferdous3546@gmail.com</strong>
+  <img src="https://monochrome-emojis.vercel.app/lucid?mail=purple" width="18" height="18" align="texttop"/>  <strong>tahsin.ferdous3546@gmail.com</strong>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
@@ -80,17 +80,17 @@
   <tr>
     <td><strong>2023</strong></td>
     <td>Complete DSA and become Codeforces Pupil</td>
-    <td><img src="https://monochrome-emojis.vercel.app/emoji?tick=purple" width="16" height="16" align="texttop"/> Done</td>
+    <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> Done</td>
   </tr>
   <tr>
     <td><strong>2024</strong></td>
     <td>Achieve CodeChef 3-star, solve 1000+ problems, participate in ICPC</td>
-    <td><img src="https://monochrome-emojis.vercel.app/emoji?tick=purple" width="16" height="16" align="texttop"/> Done</td>
+    <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> Done</td>
   </tr>
   <tr>
     <td><strong>2025</strong></td>
     <td>Improve development skills and secure a software engineering position, participate in ICPC for the 2nd time</td>
-    <td><img src="https://monochrome-emojis.vercel.app/emoji?tick=purple" width="16" height="16" align="texttop"/> Done</td>
+    <td><img src="https://monochrome-emojis.vercel.app/lucid?check-square-2=purple" width="16" height="16" align="texttop"/> Done</td>
   </tr>
   <tr>
     <td><strong>2026</strong></td>
@@ -136,7 +136,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
-### <img src="https://monochrome-emojis.vercel.app/emoji?back=purple" width="22" height="22" align="top"/> Backend
+### <img src="https://monochrome-emojis.vercel.app/lucid?server-plus=purple" width="22" height="22" align="top"/> Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -144,7 +144,7 @@
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-009688?style=for-the-badge&logo=grpc&logoColor=white)
 
-### <img src="https://monochrome-emojis.vercel.app/emoji?puzzle=purple" width="22" height="22" align="absmiddle"/> Databases
+### <img src="https://monochrome-emojis.vercel.app/lucid?database=purple" width="22" height="22" align="texttop"/> Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -163,7 +163,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C4390,100:945acb&height=3&width=1000" width="100%"/>
 
-## <img src="https://monochrome-emojis.vercel.app/emoji?stats=purple" width="25" height="25" align="top"/> GitHub Stats
+## <img src="https://monochrome-emojis.vercel.app/lucid?bar-chart-3=purple" width="25" height="25" align="top"/> GitHub Stats
 
 <div align="center">
 
