@@ -167,7 +167,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tahsin005&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Streak Stats](https://githubstatsstudio.vercel.app/api/streak?user=tahsin005&theme=liquid_glass&border_radius=4)](https://github.com/tahsin005)
 
 </div>
 
