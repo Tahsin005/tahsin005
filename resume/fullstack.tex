@@ -1,9 +1,10 @@
-%-------------------------
-% Resume in LaTeX
-% Author : MD. Tahsin Ferdous
-%-------------------------
+%------------------------------------------------------------------------------
+% Resume in LaTeX - MD. Tahsin Ferdous
+% Tailored Full Stack Software Engineer Resume
+% Optimized for ATS Scanning & 20-Second Recruiter Qualification Rubrics
+%------------------------------------------------------------------------------
 
-\documentclass[letterpaper,10.5pt]{article}
+\documentclass[letterpaper,10pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -12,14 +13,14 @@
 \usepackage[usenames,dvipsnames]{color}
 \usepackage{verbatim}
 \usepackage{enumitem}
-\definecolor{navyblue}{RGB}{54, 78, 214}
+\definecolor{navyblue}{RGB}{43, 72, 194}
 \usepackage[colorlinks=true, urlcolor=navyblue, urlbordercolor={0 0 0}]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \usepackage{multicol}
-
 \usepackage{fontspec}
+
 \setmainfont{Arial}
 
 \pagestyle{fancy}
@@ -28,188 +29,154 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.5in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.7in}       % was -.5in
-\addtolength{\textheight}{1.2in}      % was 1.0in
+% Balanced margins for precise 1-page layout
+\addtolength{\oddsidemargin}{-0.55in}
+\addtolength{\evensidemargin}{-0.55in}
+\addtolength{\textwidth}{1.1in}
+\addtolength{\topmargin}{-.75in}
+\addtolength{\textheight}{1.38in}
 
 \urlstyle{same}
 \raggedbottom
 \raggedright
 \setlength{\tabcolsep}{0in}
 
-% Section formatting
+% Calibrated section formatting to pull Achievements flush on Page 1
 \titleformat{\section}{
-  \vspace{-6pt}\scshape\raggedright\large  % was -4pt
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-3.5pt}]
 
-%-------------------------
-% Custom Commands
-%-------------------------
-
+% Custom list & item commands
 \newcommand{\resumeItem}[1]{
   \item\small{
-    {#1 \vspace{-2pt}}
+    {#1 \vspace{-1.5pt}}
   }
 }
 
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \small#3 & \small #4 \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\[7pt]
-      \small#3 & \small #4 \\
-    \end{tabular*}\vspace{-2pt}
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \small#2 \\
+      \textit{\small#3} & \textit{\small#4} \\
+    \end{tabular*}\vspace{-5pt}
 }
 
 \newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & \small#2 \\
+    \end{tabular*}\vspace{-5pt}
 }
 
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{-4pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, label=$\vcenter{\hbox{\tiny$\bullet$}}$]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-3pt}}
 
-\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%==========================================================
-%                   RESUME STARTS HERE
-%==========================================================
-
+%==============================================================================
+%                               RESUME STARTS HERE
+%==============================================================================
 \begin{document}
 
-%-------------- HEADING -----------------------------------
+%--------------------------------- HEADING ------------------------------------
 \begin{center}
-    {\LARGE \scshape MD. Tahsin Ferdous} \\ \vspace{4pt}
-    {\large\bfseries Full Stack Developer} \\ \vspace{6pt}
+    {\LARGE \bfseries MD. Tahsin Ferdous} \\ \vspace{2pt}
+    {\large\bfseries Full Stack Software Engineer} \\ \vspace{4pt}
     \small
-    tahsin.ferdous3546@gmail.com $|$
+    \href{mailto:tahsin.ferdous3546@gmail.com}{tahsin.ferdous3546@gmail.com} $|$
     +880 1795-368447 $|$
-    Savar, Dhaka, Bangladesh $|$
-    \href{https://www.linkedin.com/in/md-tahsin-ferdous/}{LinkedIn} $|$
-    \href{https://github.com/tahsin005}{GitHub} $|$
-    \href{https://tahsin-exe.vercel.app/}{Portfolio}
+    Dhaka, Bangladesh \textbf{(Open to Remote)} \\ \vspace{2pt}
+    \href{https://linkedin.com/in/md-tahsin-ferdous/}{linkedin.com/in/md-tahsin-ferdous} $|$
+    \href{https://github.com/tahsin005}{github.com/tahsin005} $|$
+    \href{https://tahsin-exe.vercel.app/}{tahsin-exe.vercel.app}
 \end{center}
+\vspace{-4pt}
 
-%-------------- SUMMARY -----------------------------------
-\section{Summary}
+%--------------------------------- SUMMARY ------------------------------------
+\section{Professional Summary}
 \small{
-Full Stack Developer with experience building scalable SaaS platforms and production-grade APIs using {Python, Django, and Django REST Framework}, alongside modern {React.js / Node.js} frontends. Strong experience in backend architecture, microservices, workflow automation, payment systems, and distributed task processing using RabbitMQ and Redis. Proven ability to design end-to-end systems serving 1,000+ users, supported by strong competitive programming background.
+Full Stack Software Engineer with production experience architecting scalable SaaS platforms, responsive frontends, and high-throughput backend services using \textbf{TypeScript}, \textbf{JavaScript}, \textbf{React.js}, \textbf{HTML5/CSS3}, \textbf{Python (Django)}, and \textbf{Go}. Demonstrated background deploying cloud infrastructure on \textbf{Microsoft Azure} and \textbf{Vercel}, modeling \textbf{SQL/NoSQL} databases, and collaborating in cross-functional \textbf{Agile/Scrum} teams. 2x ACM-ICPC Regional Finalist with 2,000+ algorithmic problems solved.
 }
 
-
-%-------------- TECHNICAL SKILLS -------------------------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages:}{ Python, C++, JavaScript, TypeScript, Golang} \\[2pt]
-     \textbf{Frontend:}{ React.js, Next.js, Tailwind CSS} \\[2pt]
-     \textbf{Backend \& Frameworks:}{ Django, Django REST Framework, Gin, GORM, Express.js, Node.js, Prisma, Mongoose} \\[2pt]
-     \textbf{Databases:}{ PostgreSQL, MongoDB, Redis} \\[2pt]
-     \textbf{Tools \& Platforms:}{ Docker, Git, GitHub, gRPC, Stripe, SSLCOMMERZ} \\[2pt]
-     \textbf{Problem Solving:} \href{https://codeforces.com/profile/tahsin_ferdous}{Codeforces Pupil} $|$  \href{https://www.codechef.com/users/tahsinferdous3}{Codechef 3 Star}  $|$  \href{https://leetcode.com/u/md-tahsin-ferdous/}{Leetcode} \\[2pt]
-     \textbf{Soft Skills:}{ Quick Learner, Adaptability, Teamwork, Critical Thinking, Responsibility}
-    }}
- \end{itemize}
-
-%-------------- EXPERIENCE --------------------------------
+%-------------------------------- EXPERIENCE ----------------------------------
 \section{Experience}
-\vspace{4pt}
-  \resumeSubHeadingListStart
-    \resumeSubSubheading
-      {Junior Software Engineer}{April 2025 -- March 2026}
-      {AffPilot (AI SaaS Startup)}{Onsite}
-      \vspace{4pt}
-      \resumeItemListStart
-        \resumeItem{Built and scaled {Growthly} and {AffPilot} SaaS products with {Django}, {React.js}, and {Golang}, supporting {1,000+ active users}.}
-        \resumeItem{Developed CMS with Excel parsing, facet filtering, and {RabbitMQ}-powered workflows, cutting manual operations by {\textasciitilde40\%}.}
-        \resumeItem{Integrated {Stripe} and {SSLCOMMERZ} payment gateways with Shopify/WordPress publishing via {PostgreSQL} and {Redis}.}
-        \resumeItem{Secured platform with reCAPTCHA v3 and IP rate limiting; containerized all services using {Docker} and {Django REST Framework}.}
-      \resumeItemListEnd
-  \resumeSubHeadingListEnd
+\resumeSubHeadingListStart
 
-%-------------- PROJECTS ---------------------------------
+  \resumeSubheading
+    {Junior Software Engineer}{April 2025 -- March 2026}
+    {Affpilot AI (AI SaaS Startup)}{Dhaka, Bangladesh}
+    \resumeItemListStart
+      \resumeItem{Engineered full-stack features for multi-tenant AI content SaaS applications using \textbf{TypeScript}, \textbf{JavaScript}, \textbf{React.js}, and \textbf{HTML5/CSS3}, consuming \textbf{RESTful APIs} to serve \textbf{1,000+ active users} with automated blog publishing.}
+      \resumeItem{Architected backend workflows in \textbf{Python (Django)} and \textbf{Go}, structuring relational schemas in \textbf{PostgreSQL (SQL)} and asynchronous queues with \textbf{RabbitMQ} to automate catalog parsing, \textbf{reducing manual operations by 40\%}.}
+      \resumeItem{Integrated \textbf{Stripe} and \textbf{SSLCOMMERZ} payment gateways with automated webhooks and \textbf{Redis} caching, delivering fault-tolerant multi-currency subscriptions and CMS publishing sync for Shopify and WordPress platforms.}
+      \resumeItem{Deployed and maintained production backend services on \textbf{Azure Virtual Machines (Cloud)} and frontends on \textbf{Vercel}, utilizing \textbf{Docker} for local service containerization, automated testing, and development consistency.}
+      \resumeItem{Collaborated within an \textbf{8-person cross-functional Agile/Scrum team} (CTO, frontend, ML engineers), actively contributing to sprint planning, daily standups, and structured \textbf{Git/GitHub} pull request code reviews.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%--------------------------------- PROJECTS -----------------------------------
 \section{Projects}
-    \vspace{4pt}
-    \resumeSubHeadingListStart
-      \resumeProjectHeading
-          {\textbf{Affpilot} $|$ {AI SaaS Platform}}
-            {\href{https://app.affpilot.com}{{Live}}}
-          \\\vspace{2pt}
-          \resumeItemListStart
-            \resumeItem{Implemented Shopify, WordPress, and Blogger publishing integrations for AI-generated blog content automation.}
-            \resumeItem{Built a centralized {Stripe}/{SSLCOMMERZ} payment system managing transactions across AffPilot's product suite for 1,000+ users.}
-            \resumeItem{\textbf{Stack:} Django, PostgreSQL, React.js, Material UI, Stripe, SSLCOMMERZ, Shopify API}
-          \resumeItemListEnd
-      \vspace{2pt}
+\resumeSubHeadingListStart
 
-      \resumeProjectHeading
-        {\textbf{Northwind} $|$ {Full-Stack E-Commerce \& Support Platform}}
-        {\href{https://northwind-kappa.vercel.app/}{{Live}} $|$
-        \href{https://github.com/tahsin005/northwind}{{GitHub}}}
-        \\\vspace{2pt}
-        \resumeItemListStart
-          \resumeItem{Built a full-stack app with {React 19}, {Node.js}, {PostgreSQL}, and {Drizzle ORM}, plus {Clerk}-based RBAC for multiple user roles.}
-          \resumeItem{Integrated {Stream Chat/Video} for live support and a secure {Polar API} checkout with idempotent payment processing.}
-          \resumeItem{\textbf{Stack:} React, Tailwind CSS v4, Express.js, PostgreSQL, Drizzle ORM, Clerk, Stream SDK, Polar, ImageKit, Sentry}
-        \resumeItemListEnd
-      \vspace{2pt}
+  \resumeProjectHeading
+    {\textbf{Northwind} $|$ \emph{Full-Stack E-Commerce Platform} \quad \small[\textbf{React 19, TypeScript, PostgreSQL}]}{
+      \href{https://northwind-kappa.vercel.app/}{\textbf{Live Demo}} $|$
+      \href{https://github.com/tahsin005/northwind}{\textbf{GitHub}}
+    }
+    \resumeItemListStart
+      \resumeItem{Architected a full-stack e-commerce web application with \textbf{React 19}, \textbf{TypeScript}, \textbf{HTML5/CSS3 (Tailwind)}, and \textbf{Node.js (Express)}, implementing role-based access control (RBAC) via Clerk for customer and administrative dashboards.}
+      \resumeItem{Integrated \textbf{Stream Chat and Video SDKs} for live customer support, paired with \textbf{Polar API} idempotent checkout processing, \textbf{PostgreSQL (SQL)} with \textbf{Drizzle ORM}, and \textbf{Vercel} deployment monitored via \textbf{Sentry}.}
+    \resumeItemListEnd
 
-      \resumeProjectHeading
-        {\textbf{E-Commerce Microservices Platform} $|$ {Backend System}}
-            {\href{https://github.com/Tahsin005/ecommerce-microservices}{{GitHub}}}
-          \\\vspace{2pt}
-          \resumeItemListStart
-            \resumeItem{Designed a {Node.js}/{Express} microservices architecture with an API Gateway and User, Product, Cart, Order, and Payment services.}
-            \resumeItem{Implemented {gRPC} for synchronous calls and {RabbitMQ} for async workflows, with {Redis} caching for performance.}
-            \resumeItem{\textbf{Stack:} Node.js, Express.js, JavaScript, MongoDB, Mongoose, Redis, RabbitMQ, gRPC, Docker}
-          \resumeItemListEnd
-    \resumeSubHeadingListEnd
+  \resumeProjectHeading
+    {\textbf{E-Commerce Microservices Platform} $|$ \emph{Distributed Backend System} \quad \small[\textbf{Node.js, Express, RabbitMQ, gRPC}]}{
+      \href{https://github.com/Tahsin005/ecommerce-microservices}{\textbf{GitHub}}
+    }
+    \resumeItemListStart
+      \resumeItem{Designed a polyglot microservices architecture in \textbf{Node.js} and \textbf{Express} with an \textbf{API Gateway} managing isolated User, Product, Cart, Order, and Payment services backed by \textbf{MongoDB} persistence.}
+      \resumeItem{Implemented \textbf{gRPC} for low-latency synchronous inter-service communication and \textbf{RabbitMQ} for asynchronous order event brokering, incorporating \textbf{Redis} caching to maximize high-traffic throughput.}
+    \resumeItemListEnd
 
-%-------------- EDUCATION ---------------------------------
+  \resumeProjectHeading
+    {\textbf{Leet-Daemon} $|$ \emph{Distributed Remote Code Execution Engine} \quad \small[\textbf{Node.js, TypeScript, Docker, gRPC}]}{
+      \href{https://github.com/Tahsin005/leet-daemon}{\textbf{GitHub}}
+    }
+    \resumeItemListStart
+      \resumeItem{Architected a distributed execution backend in \textbf{Node.js} and \textbf{TypeScript} with \textbf{gRPC} transport, pairing \textbf{BullMQ} and \textbf{Redis} to manage asynchronous job queues, task priority, and worker load distribution.}
+      \resumeItem{Engineered secure execution sandboxes using \textbf{Docker}, enforcing strict CPU, memory, and networking isolation boundaries to safely compile and evaluate untrusted multi-language user submissions.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------------------------- TECHNICAL SKILLS -------------------------------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.0in, label={}]
+  \small{\item{
+    \textbf{Languages:}{ TypeScript, JavaScript, Python, Go (Golang), C++, SQL, HTML5, CSS3} \\[2.5pt]
+    \textbf{Frontend:}{ React.js, Next.js, Redux, Zustand, Tailwind CSS, TanStack Query, Material UI} \\[2.5pt]
+    \textbf{Backend \& APIs:}{ Node.js, Express.js, Django, Django REST Framework, Gin, RESTful APIs, gRPC} \\[2.5pt]
+    \textbf{Databases \& Caching:}{ PostgreSQL, MongoDB, Redis, MySQL, SQLite, Drizzle ORM, Prisma, Mongoose} \\[2.5pt]
+    \textbf{Cloud \& DevOps:}{ Microsoft Azure (VMs), Vercel, Docker, Git, GitHub, RabbitMQ, CI/CD Pipelines}
+  }}
+\end{itemize}
+
+%--------------------------------- EDUCATION ----------------------------------
 \section{Education}
-\vspace{4pt}
-  \resumeSubHeadingListStart
-    \resumeSubSubheading
-      {City University, Bangladesh}{}
-      {B.Sc in Computer Science \& Engineering}{2022 -- 2025}
-  \resumeSubHeadingListEnd
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {City University, Bangladesh}{2022 -- 2025}
+    {Bachelor of Science in Computer Science \& Engineering}{Dhaka, Bangladesh}
+\resumeSubHeadingListEnd
 
+%------------------------- ACHIEVEMENTS & PROBLEM SOLVING ---------------------
+\section{Achievements \& Problem Solving}
+\begin{itemize}[leftmargin=0.0in, label={}]
+  \small{\item{
+    \textbf{ACM-ICPC Regional Finalist:}{ 2x Dhaka Regional Onsite Contestant (2024, 2025) --- Qualified and competed among premier university engineering teams across Bangladesh.} \\[2.5pt]
+    \textbf{Competitive Programming:}{ Solved \textbf{2,000+} algorithmic problems across Codeforces (Max Rating: 1352), LeetCode, and CodeChef; strong foundation in algorithms, data structures, and computational complexity.}
+  }}
+\end{itemize}
 
-
-%-------------- ACHIEVEMENTS ------------------------------
-\section{Achievements}
-\vspace{4pt}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{ICPC:}{ 2x Dhaka Regional Onsite Contestant (24, 25)} \\[2pt]
-    }}
- \end{itemize}
-
-%-------------- LANGUAGES ---------------------------------
-\section{Languages}
-\vspace{4pt}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Bengali:}{ Native} \quad\quad
-     \textbf{English:}{ Professional Proficiency}
-    }}
- \end{itemize}
-
-%==========================================================
+%==============================================================================
 \end{document}
